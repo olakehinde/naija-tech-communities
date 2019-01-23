@@ -19,10 +19,15 @@ https://www.facebook.com/groups/DevCLagos/
 ### Facebook Group Developer Circles Nigeria: ReactJS:
 https://www.facebook.com/groups/devcReactNigeria/
 
+### GDG Ikorodu on Meetup.com
+bit.ly/gdg_ikorodu
+
 <hr>
 
 ## List of Developer Communities to follow on Twitter
 
+### GDG Ikorodu WhatsApp group
+https://chat.whatsapp.com/HnzNhIVcaRZ0BX1g8N2bDB
 
 ### ForLoop Abuja
 https://twitter.com/forLoopAbuja
